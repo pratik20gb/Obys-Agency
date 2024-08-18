@@ -1,9 +1,11 @@
 # Obys-Agency
 
+
+
+The "Obys Agency Website Clone" project is a frontend development exercise that involves creating a visually appealing and responsive website similar to the official Obys Agency website. 
+
 https://pratik20gb.github.io/Obys-Agency/
 
-Overview
-The "Obys Agency Website Clone" project is a frontend development exercise that involves creating a visually appealing and responsive website similar to the official Obys Agency website. 
 Project Objectives
 The main objectives of this project are:
 To replicate the overall design and user experience of the Obys Agency website.
